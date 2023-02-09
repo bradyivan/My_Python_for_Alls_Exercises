@@ -24,11 +24,14 @@ def helloPeople():
 while True:
     print("""____________________________________________________________
     Escoja una opcion:
-    --------------------------------------------------------
-    1-Hola. 
-    2-Celsius to Farenheit.
-    3-Farenheit to Celsius.
-    4-Calculo del Salario (Salario = horas*tarifa) 
+    ---------------------------------------------------------------------
+    Chapter 2-Variable expresiones y Sentencias.
+    ---------------------------------------------------------------------
+    1-Hola[pag. 31, Ejercicio 2]. 
+    2-Celsius to Farenheit[pag. 32, Ejercicio 5].
+    3-Farenheit to Celsius[pag. 32, Ejercicio 5(Variante)].
+    4-Calculo del Salario (Salario = horas*tarifa)[pag. 31, Ejercicio 3] 
+    ---------------------------------------------------------------------
     5-Salir.
 _____________________________________________________________""")
     opcion=input()
